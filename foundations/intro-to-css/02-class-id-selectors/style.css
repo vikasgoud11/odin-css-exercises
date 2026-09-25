@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.p-container{
+    background-color:#ffa7a7;
+    font-family: Verdana, 'DejaVu Sans',sans-serif;
+}
+
+#one{
+    color: blue;
+    font-size: 36px;
+}
+
+.p-container.cooler{
+    font-size: 24px;
+}
+
+#two{
+    font-size: 24px;
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+}
+
